@@ -1,0 +1,33 @@
+// rest client
+### storing data
+POST  http://localhost:3001/books HTTP/1.1
+Content-Type: application/json
+
+{
+    "title" : "My Quran"
+}
+
+
+
+### fetching or getting data
+GET http://localhost:3001/books HTTP/1.1
+Content-Type: application/json
+
+
+
+
+### updating data
+
+PUT http://localhost:3001/books/1 HTTP/1.1
+Content-Type: application/json
+
+{
+    "title": "The Holy Quran"
+}
+
+
+
+### deleting data
+DELETE   http://localhost:3001/books/1 HTTP/1.1
+Content-Type: application/json
+
