@@ -1,3 +1,11 @@
+
+Assalamualaikum completed the section 7 and covered the following topics . 
+
+use effect, Json server Setup, different routes of jsn server get post edit delete
+Rest Client ,Installing the REST Client, uploaded the code on github as well
+ 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
